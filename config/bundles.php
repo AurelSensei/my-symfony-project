@@ -14,6 +14,4 @@ return [
     Symfony\Bundle\MakerBundle\MakerBundle::class => ['dev' => true],
     Symfony\WebpackEncoreBundle\WebpackEncoreBundle::class => ['all' => true],
     Rompetomp\InertiaBundle\RompetompInertiaBundle::class => ['all' => true],
-    //App\my_entity\myEntity::class => ['all' => true],
-    //EnergySolution\ProjectEntity\CustomEntity::class => ['all' => true],
 ];

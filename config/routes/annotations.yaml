@@ -5,8 +5,3 @@ controllers:
 kernel:
     resource: ../../src/Kernel.php
     type: annotation
-
-my_entity:
-    resource: ../../src/my_entity/Controller/
-    type: annotation
-
