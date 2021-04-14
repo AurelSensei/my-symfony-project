@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "27314d1f39ee0e3ffb20540915b4a6e4",
+    "content-hash": "de5fe3274065ddc31e80e698506e9334",
     "packages": [
         {
             "name": "composer/package-versions-deprecated",
@@ -1422,7 +1422,7 @@
         },
         {
             "name": "energy-solution/project-entity",
-            "version": "dev-main",
+            "version": "0.0.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/AurelSensei/project-entity.git",
@@ -7977,9 +7977,7 @@
     ],
     "aliases": [],
     "minimum-stability": "stable",
-    "stability-flags": {
-        "energy-solution/project-entity": 20
-    },
+    "stability-flags": [],
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": {

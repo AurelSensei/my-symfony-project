@@ -12,7 +12,7 @@
         "doctrine/doctrine-bundle": "^2.3",
         "doctrine/doctrine-migrations-bundle": "^3.1",
         "doctrine/orm": "^2.8",
-        "energy-solution/project-entity": "dev-main",
+        "energy-solution/project-entity": "^0.0.1",
         "nesbot/carbon": "^2.46",
         "phpdocumentor/reflection-docblock": "^5.2",
         "rompetomp/inertia-bundle": "^2.1",

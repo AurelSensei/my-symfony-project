@@ -85,6 +85,9 @@
     "egulias/email-validator": {
         "version": "3.1.1"
     },
+    "energy-solution/project-entity": {
+        "version": "0.0.1"
+    },
     "friendsofphp/proxy-manager-lts": {
         "version": "v1.0.3"
     },
